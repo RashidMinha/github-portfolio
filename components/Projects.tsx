@@ -80,7 +80,7 @@ export const Projects = () => {
                 <Typography variant="h3" className="text-white/20 font-black text-6xl uppercase tracking-tighter select-none">{project.title.split(' ')[0]}</Typography>
                 
                 <div className="absolute top-4 right-4">
-                  <Badge variant="secondary" className="bg-white/5 backdrop-blur-md border-white/10">{project.duration}</Badge>
+                  <Badge variant="glass" className="bg-white/5 backdrop-blur-md border-white/10">{project.duration}</Badge>
                 </div>
               </div>
               

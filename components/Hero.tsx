@@ -23,7 +23,7 @@ export const Hero = () => {
       
       <div className="glass animate-float mb-8 rounded-full px-6 py-2 text-sm font-medium tracking-wide text-primary shadow-lg">
         <span className="mr-2 inline-block h-2 w-2 animate-pulse rounded-full bg-primary" />
-        Available for Full-Stack AI Projects
+        Available for Full-Stack & Frontend Projects
       </div>
 
       <Typography variant="h1">
@@ -32,7 +32,7 @@ export const Hero = () => {
       
       <Typography variant="p" className="mt-8 max-w-2xl sm:text-xl">
         I build production-grade AI Agent interfaces and scalable backends. 
-        Expertise in **Next.js**, **SvelteKit 5**, **Node.js**, and **Meteor.js**. 
+        Expertise in <strong className="font-bold text-zinc-100">Next.js</strong>, <strong className="font-bold text-zinc-100">SvelteKit 5</strong>, <strong className="font-bold text-zinc-100">Node.js</strong>, and <strong className="font-bold text-zinc-100">Meteor.js</strong>. 
         Turning complex agent logic into seamless, high-performance products.
       </Typography>
 
